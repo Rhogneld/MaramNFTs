@@ -34,3 +34,6 @@
 * [RITIN GEORGE](https://github.com/aurora0025)
 * [ANUGRAH TOBY](https://github.com/anugrahtoby)
 * [VINU B KURUP](https://github.com/hipster16)
+
+## Walkthrough 
+<a href="https://www.loom.com/share/ffb34a80fb91412d94108a3b7e170f43%22%3EDemo> Video</a>
